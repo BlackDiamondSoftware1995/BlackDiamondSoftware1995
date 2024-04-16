@@ -26,19 +26,15 @@ Here on my GitHub, you'll find a mix of my life's journey and my work—a testam
 
 ## Skills
 
-List your technical skills, programming languages, tools, and technologies you're proficient in. You can categorize them based on proficiency level or relevance to your projects.
 
-Example:
-- Programming Languages: JavaScript, Python, PHP, Java
+- Programming Languages: JavaScript, Python, PHP, 
 - Web Development: HTML5, CSS3, Bootstrap5, React.js
-- Backend Development: Node.js, Express.js, Django
+- Backend Development: Node.js, Express.js, Flask
 - Database: MongoDB, MySQL, PostgreSQL
-- Ethical Hacking: Kali Linux, Metasploit, Wireshark
+- Ethical Hacking: Kali Linux, Metasploit, Wireshark , The entire Kali Toolset
 - Other: Git, Docker, Linux Shell Scripting
 
 ## Projects
-
-Highlight some of your notable projects. Provide brief descriptions, links to repositories or live demos, and any key technologies or skills demonstrated in each project.
 
 
     Westville Medical Clinic Website
