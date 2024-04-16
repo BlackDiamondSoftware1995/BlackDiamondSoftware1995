@@ -3,9 +3,6 @@
 ## About Me
 # Alexander Macleod
 
-Hey there, I'm Alexander Macleod, a **28-year-old** Nova Scotian with a winding journey. I'm on a quest to become a **Full Stack Web Developer** and **Software Engineer**, despite some rocky roads along the way.
-
-## My Journey
 
 My story isn't your typical one. I dropped out of high school during my 2nd year due to a diagnosis of **Psuedomyoxaperitoninel PMP Cancer**. Life threw me another curveball when I found myself serving a 3-year sentence in jail for **aggravated assault with a weapon**. But hey, even behind bars, I was determined to keep learning—I completed my **GED** and even scored in the high percentile.
 
